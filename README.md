@@ -6,7 +6,7 @@
 Computer Programming 1
 ![Running App](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/Screenshot%202025-05-07%20at.jpg)
 Computer Programming 2
-![Running App]((https://github.com/Yangshengbin2007/programmingportfolio/blob/main/images/Screenshot%202025-05-%5C.jpg))
+![Running App](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/images/Screenshot%202025-05-%5C.jpg)
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save.

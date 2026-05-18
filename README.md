@@ -8,7 +8,7 @@ Computer Programming 1
 Computer Programming 2
 ![Running App](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/images/Screenshot%202025-05-%5C.jpg)
 Advanced Computer Programming
-![Running App](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/Shengbin%20Yang_Computer%20Programming%2C%20Advanced%20_05182026.pdf)
+![Running App]([https://github.com/Yangshengbin2007/programmingportfolio/blob/main/Shengbin%20Yang_Computer%20Programming%2C%20Advanced%20_05182026.pdf](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/Screenshot%202026-05-18%20at%2012.15.36%20PM.jpeg))
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save.

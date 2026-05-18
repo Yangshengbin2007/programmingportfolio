@@ -7,6 +7,8 @@ Computer Programming 1
 ![Running App](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/Screenshot%202025-05-07%20at.jpg)
 Computer Programming 2
 ![Running App](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/images/Screenshot%202025-05-%5C.jpg)
+Advanced Computer Programming
+![Running App](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/Shengbin%20Yang_Computer%20Programming%2C%20Advanced%20_05182026.pdf)
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save.
@@ -22,3 +24,14 @@ Description: OOP solution for a collision based space themed game.
 ## Term 3
 ### Shape Tester
 Interactive program that asks users to choose from list of shapes to find volume and surface area.
+## Term 4
+### sanguinize
+A group project—a really fun game!
+## Advpro
+### memetale
+https://github.com/Yangshengbin2007/memetale
+My personal project—an RPG with a story-driven focus, packed with memes and fun elements.
+### Beather
+https://github.com/Sgandre3890/Beather
+Group Project: Weather Forecast Application (including a web version)
+

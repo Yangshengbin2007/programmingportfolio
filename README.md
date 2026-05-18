@@ -1,7 +1,7 @@
-# Programming 1 Portfolio 2024-2025 | Shengbin Yang
+# Programming Portfolio 2024-2026 | Shengbin Yang
 ## Email: yangshengbin821@gmail.com
 * Current High School: Skyline High School
-* Projected graduation in 2027
+* Projected graduation in 2026
 ## Certifications
 Computer Programming 1
 ![Running App](https://github.com/Yangshengbin2007/programmingportfolio/blob/main/Screenshot%202025-05-07%20at.jpg)

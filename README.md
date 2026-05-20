@@ -117,14 +117,6 @@ Full project context: include recursion samples in course assignments (link abov
 - Screenshots and larger code samples are stored in the repo's images and project folders. If an image appears missing, open the repo and view images/ or project folders directly.
 - Add or replace screenshots in `/images` to update the visuals on this page.
 
-## Submission Checklist
-- [x] Certifications/testing included
-- [x] At least 6 projects included
-- [x] Official activities included
-- [x] At least 3 code samples included
-- [x] Reflection completed
-- [x] Screenshots/media added (link references present)
-- [x] Links to repos included
 
 --- 
 Notes for merging:
